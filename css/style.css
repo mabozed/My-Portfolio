@@ -240,7 +240,7 @@ header.sticky .nav-bar {
   font-size: 3em;
   font-weight: 600;
   line-height: 70px;
-  /* color: var(--second-color); */
+  color: var(--second-color);
 }
 .home-container .info h3 {
   color: var(--third-color);
